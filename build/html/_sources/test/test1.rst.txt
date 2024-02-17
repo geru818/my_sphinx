@@ -1,5 +1,0 @@
-###########################
-ReStructuredTextの書き方
-###########################
-
-https://docutils.sourceforge.io/docs/user/rst/quickstart.html
