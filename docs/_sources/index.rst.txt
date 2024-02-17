@@ -13,6 +13,6 @@ Welcome to OCCI Study's documentation!
 
    /test/ReStructuredText.rst
    /test/Miscellaneous.rst
-
+   /test/Sphinx.rst
  
 
